@@ -1,0 +1,16 @@
+styles.css
+
+
+#butt{
+	border-radius: 100px;
+	background-color: pink;
+	margin-left: 40px;
+}
+
+.menu{
+	float: left;
+}
+
+br{
+	margin-top: 100px;
+}
